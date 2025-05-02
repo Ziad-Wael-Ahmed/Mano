@@ -46,6 +46,8 @@ The basic computer uses a simple instruction set consisting of:
     Addressing Mode: Direct addressing.
 
     Program Load Location: The program is loaded starting at memory address 0.
+####Video
+   ( https://www.dropbox.com/scl/fo/17l6ksvi0b8q271dzui13/AOr5ROkXu6UjwjZ5udMPQK8?rlkey=m9lb1es0r8hqoi03fd7ys0bax&st=3bdv0iq0&dl=0 )
   ## Example Instructions 
     1- INC (7020H) : Increament AC
     2- CMA (7200H ) : complement AC
